@@ -9,6 +9,10 @@ h1 {
 	color: grey;
 }
 
+#names{
+	color: #0066ff;
+}
+
 p {
 	color: darkblue;
 }
@@ -85,4 +89,6 @@ footer#pageFooter p {
 	margin-bottom: 10px;
 	color: #666;
 }
-		
+aside#hobbies p {
+	color:#ff944d;
+}	
